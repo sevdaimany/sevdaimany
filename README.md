@@ -1,6 +1,7 @@
 ## Hi there, I'm Sevda <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<img align="left" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+![](https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 <br/> 
 
