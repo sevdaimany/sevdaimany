@@ -1,7 +1,6 @@
 ## Hi there, I'm Sevda <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-<br/> 
 
 # Languages and Skills :
 
