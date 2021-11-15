@@ -8,7 +8,4 @@
 - 📫 You can reach me by my gmail
 
 
-![mattn's github 
-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sevdaimany&layout=compact&theme=material-palenight&langs_count=6&hide=c)
-
 
